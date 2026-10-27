@@ -73,6 +73,15 @@ const FICHES = [
     auteur: "ETUDIANT"
   },
 
+  {
+    titre: "RESPECTEZ L'EQUIPE PEDAGOGIQUE(deuxieme fois)",
+    categorie: "Vie pratique",
+    texte: "Respectez l'équipe pédagogique, elle est là pour vous aider et vous guider dans votre parcours académique. N'hésitez pas à poser des questions et à demander de l'aide si nécessaire.",
+    auteur: "MEHDI"
+  },
+  
+
+
 
 
   // ===== FIN DE VOS FICHES =====
