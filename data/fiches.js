@@ -79,7 +79,13 @@ const FICHES = [
     texte: "Respectez l'équipe pédagogique, elle est là pour vous aider et vous guider dans votre parcours académique. N'hésitez pas à poser des questions et à demander de l'aide si nécessaire.",
     auteur: "MEHDI"
   },
-  
+  {
+    titre: "RESPECTEZ L'ENVIRENEMENT",
+    categorie: "Vie pratique",
+    texte: "Respectez l'équipe pédagogique, elle est là pour vous aider et vous guider dans votre parcours académique. N'hésitez pas à poser des questions et à demander de l'aide si nécessaire.",
+    auteur: "HICHEM"
+  },
+
 
 
 
