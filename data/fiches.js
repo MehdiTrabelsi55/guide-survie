@@ -56,6 +56,12 @@ const FICHES = [
     texte: "demander l'aide aux autres pour mieux comprendre.",
     auteur: "MOEMEN"
   },
+  {
+    titre: "Pratiquer pour mieux comprendre",
+    categorie: "Etudes",
+    texte: "dans tout les matiéres il faut pratiquer pour perfectionner.",
+    auteur: "MOEMEN"
+  },
 
 
   {
