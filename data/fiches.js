@@ -66,6 +66,14 @@ const FICHES = [
   },
 
   // ===== AJOUTEZ VOS FICHES CI-DESSOUS =====
+{
+    titre: "netoyer la salle de travail",
+    categorie: "Vie pratique",
+    texte: "nettoyer la salle de travail après utilisation pour le confort de tous.",
+    auteur: "Membre 1 Mehdi"
+  },
+
+
   {
     titre: "RESPECTEZ L'EQUIPE PEDAGOGIQUE",
     categorie: "Vie pratique",
