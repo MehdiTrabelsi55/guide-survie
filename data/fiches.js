@@ -31,6 +31,22 @@ const FICHES = [
   },
 
   {
+    titre: "Demander de l'aide à un camarade",
+    categorie: "Études",
+    texte: "Si vous ne comprenez pas un cours, demandez à un camarade. Il est souvent plus simple d'expliquer une notion à quelqu'un qui la découvre en même temps que vous.",
+    auteur: "MehdiTR"
+  },
+
+  {
+    titre: "Respectez le silence dans la salle de travail",
+    categorie: "Vie pratique",
+    texte: "Respectez le silence dans la salle de travail pour ne pas déranger les autres étudiants qui sont en train d'étudier.",
+    auteur: "MehdiTR"
+  },
+
+
+
+  {
     titre: "Le distributeur du deuxième",
     categorie: "Vie pratique",
     texte: "Il rend la monnaie. Celui du rez-de-chaussée, non. L'information vaut son pesant de pièces jaunes.",
