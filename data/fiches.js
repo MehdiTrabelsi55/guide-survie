@@ -44,6 +44,13 @@ const FICHES = [
     auteur: "MehdiTR"
   },
 
+  {
+    titre: "Signez le registre de présence",
+    categorie: "Etudes",
+    texte: "Signez le registre de présence chaque fois que vous entrez dans le bâtiment pour assurer votre présence.",
+    auteur: "MehdiTR"
+  },
+
 
 
   {
