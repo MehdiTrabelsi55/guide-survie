@@ -4,12 +4,13 @@
    Chaque fiche est un bloc entre accolades { }, séparé du suivant
    par une virgule. Pour en ajouter une, copiez ce modèle :
 
-     {
-       titre: "Le titre de votre fiche",
-       categorie: "Vie pratique",
-       texte: "Votre conseil, en une ou deux phrases.",
-       auteur: "Votre prénom"
-     },
+       {
+    titre: "Le distributeur du deuxième",
+    categorie: "Vie pratique",
+    texte: "Il rend la monnaie. Celui du rez-de-chaussée, non.",
+    auteur: "Mehdi	"
+       },
+
 
    Catégories disponibles :
      "Vie pratique"   "Études"   "Transport"   "Bons plans"
@@ -66,6 +67,12 @@ const FICHES = [
   },
 
   // ===== AJOUTEZ VOS FICHES CI-DESSOUS =====
+    {
+    titre: "Une incomprehension",
+    categorie: "Etudiant",
+    texte: "Il rend la monnaie. Celui du rez-de-chaussée",
+    auteur: "Mehdi Ben Jemia"
+  },
 
 
   // ===== FIN DE VOS FICHES =====
