@@ -91,6 +91,12 @@ const FICHES = [
     texte: "Respectez mes camarades de classe pour avoir une bonne ambiance d'éetude.",
     auteur: "MOHAMED MOEMEN"
   },
+  {
+    titre: "RESPECTEZ L'ETABLISSEMENT(etape 4)",
+    categorie: "Vie pratique",
+    texte: "Respectez l'établissement pour avoir une bonne ambiance d'étude .",
+    auteur: "HICHEM"
+  },
 
 
 
