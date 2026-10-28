@@ -36,7 +36,21 @@ const FICHES = [
     texte: "Il rend la monnaie. Celui du rez-de-chaussée, non. L'information vaut son pesant de pièces jaunes.",
     auteur: "L'équipe pédagogique"
   },
+  {
+    titre: "Le bien fait du sport",
+    categorie: "Vie pratique",
+    texte: "Le sport est tres important .",
+    auteur: "HICHEM"
+  },
 
+  {
+    titre: "Les mathematique",
+    categorie: "Etudes",
+    texte: "Soyez present.",
+    auteur: "HICHEM"
+  },
+
+  
   {
     titre: "Arriver avant 8h30",
     categorie: "Transport",
