@@ -50,6 +50,13 @@ const FICHES = [
     texte: "On y comprend mieux, on y pose plus de questions, et on y sort avec moins de choses à revoir le soir.",
     auteur: "L'équipe pédagogique"
   },
+  {
+    titre: "Depot distant",
+    categorie: "Études",
+    texte: "Les depots distants permettent de travailler en groupe",
+    auteur: "L'équipe pédagogique"
+  },
+
 
   {
     titre: "Manger sans se ruiner",
