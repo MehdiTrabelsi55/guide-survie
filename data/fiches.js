@@ -66,6 +66,26 @@ const FICHES = [
     texte: "Entre 8h30 et 9h, le trajet double de durée. Partir vingt minutes plus tôt vous en fait gagner quarante.",
     auteur: "L'équipe pédagogique"
   },
+  {
+    titre: "Eviter l'utulisation du téléphone en classe",
+    categorie: "Etudes",
+    texte: "évitez lutulisation du telephone portable en classe pour se concentrer.",
+    auteur: "MOEMEN"
+  },
+
+  {
+    titre: "N'hesitez pas de demander l'aide",
+    categorie: "vie pratique",
+    texte: "demander l'aide aux autres pour mieux comprendre.",
+    auteur: "MOEMEN"
+  },
+  {
+    titre: "Pratiquer pour mieux comprendre",
+    categorie: "Etudes",
+    texte: "dans tout les matiéres il faut pratiquer pour perfectionner.",
+    auteur: "MOEMEN"
+  },
+
 
   {
     titre: "Le premier rang n'est pas un piège",
