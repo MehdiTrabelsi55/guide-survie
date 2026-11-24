@@ -31,6 +31,29 @@ const FICHES = [
   },
 
   {
+    titre: "Demander de l'aide à un camarade",
+    categorie: "Études",
+    texte: "Si vous ne comprenez pas un cours, demandez à un camarade. Il est souvent plus simple d'expliquer une notion à quelqu'un qui la découvre en même temps que vous.",
+    auteur: "MehdiTR"
+  },
+
+  {
+    titre: "Respectez le silence dans la salle de travail",
+    categorie: "Vie pratique",
+    texte: "Respectez le silence dans la salle de travail pour ne pas déranger les autres étudiants qui sont en train d'étudier.",
+    auteur: "MehdiTR"
+  },
+
+  {
+    titre: "Signez le registre de présence",
+    categorie: "Etudes",
+    texte: "Signez le registre de présence chaque fois que vous entrez dans le bâtiment pour assurer votre présence.",
+    auteur: "MehdiTR"
+  },
+
+
+
+  {
     titre: "Le distributeur du deuxième",
     categorie: "Vie pratique",
     texte: "Il rend la monnaie. Celui du rez-de-chaussée, non. L'information vaut son pesant de pièces jaunes.",
@@ -43,6 +66,26 @@ const FICHES = [
     texte: "Entre 8h30 et 9h, le trajet double de durée. Partir vingt minutes plus tôt vous en fait gagner quarante.",
     auteur: "L'équipe pédagogique"
   },
+  {
+    titre: "Eviter l'utulisation du téléphone en classe",
+    categorie: "Etudes",
+    texte: "évitez lutulisation du telephone portable en classe pour se concentrer.",
+    auteur: "MOEMEN"
+  },
+
+  {
+    titre: "N'hesitez pas de demander l'aide",
+    categorie: "vie pratique",
+    texte: "demander l'aide aux autres pour mieux comprendre.",
+    auteur: "MOEMEN"
+  },
+  {
+    titre: "Pratiquer pour mieux comprendre",
+    categorie: "Etudes",
+    texte: "dans tout les matiéres il faut pratiquer pour perfectionner.",
+    auteur: "MOEMEN"
+  },
+
 
   {
     titre: "Le premier rang n'est pas un piège",
@@ -50,6 +93,13 @@ const FICHES = [
     texte: "On y comprend mieux, on y pose plus de questions, et on y sort avec moins de choses à revoir le soir.",
     auteur: "L'équipe pédagogique"
   },
+  {
+    titre: "Depot distant",
+    categorie: "Études",
+    texte: "Les depots distants permettent de travailler en groupe",
+    auteur: "L'équipe pédagogique"
+  },
+
 
   {
     titre: "Manger sans se ruiner",
