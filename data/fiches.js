@@ -59,7 +59,26 @@ const FICHES = [
     texte: "Il rend la monnaie. Celui du rez-de-chaussée, non. L'information vaut son pesant de pièces jaunes.",
     auteur: "L'équipe pédagogique"
   },
+  {
+    titre: "Le bien fait du sport",
+    categorie: "Vie pratique",
+    texte: "Le sport est tres important .",
+    auteur: "HICHEM"
+  },
 
+  {
+    titre: "Les mathematique",
+    categorie: "Etudes",
+    texte: "Soyez present.",
+    auteur: "HICHEM"
+  },
+  {
+    titre: "Retard",
+    categorie: "Etudes",
+    texte: "Soyez a l'heure.",
+    auteur: "HICHEM"
+  },
+  
   {
     titre: "Arriver avant 8h30",
     categorie: "Transport",
@@ -141,6 +160,12 @@ const FICHES = [
     categorie: "Vie pratique",
     texte: "Respectez mes camarades de classe pour avoir une bonne ambiance d'éetude.",
     auteur: "MOHAMED MOEMEN"
+  },
+  {
+    titre: "RESPECTEZ L'ETABLISSEMENT(etape 4)",
+    categorie: "Vie pratique",
+    texte: "Respectez l'établissement pour avoir une bonne ambiance d'étude .",
+    auteur: "HICHEM"
   },
 
 
