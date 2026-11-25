@@ -38,6 +38,14 @@ const FICHES = [
   },
 
   {
+    titre: "Profitez bien de votre temps libre ",
+    categorie: "Vie pratique",
+    texte: "profitez bien de votre temps libre avec vos amis et votre famille",
+    auteur: "MOHAMED MOEMEN"
+  },
+
+
+  {
     titre: "Respectez le silence dans la salle de travail",
     categorie: "Vie pratique",
     texte: "Respectez le silence dans la salle de travail pour ne pas déranger les autres étudiants qui sont en train d'étudier.",
