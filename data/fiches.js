@@ -32,7 +32,7 @@ const FICHES = [
   {
     titre: "Respectez la propreté de la salle de travail",
     categorie: "hygiène",
-    texte: "Respectez la propreté de la salle de travail, ne laissez pas vos déchets derrière vous.",
+    texte: "Respectez la propreté de la salle de travail, ne laissez pas vos déchets derrière vous s'il vous plaît",
     auteur: "MehdiTR"
   },
 
