@@ -4,12 +4,13 @@
    Chaque fiche est un bloc entre accolades { }, séparé du suivant
    par une virgule. Pour en ajouter une, copiez ce modèle :
 
-     {
-       titre: "Le titre de votre fiche",
-       categorie: "Vie pratique",
-       texte: "Votre conseil, en une ou deux phrases.",
-       auteur: "Votre prénom"
-     },
+       {
+    titre: "Le distributeur du deuxième",
+    categorie: "Vie pratique",
+    texte: "Il rend la monnaie. Celui du rez-de-chaussée, non.",
+    auteur: "Mehdi	"
+       },
+
 
    Catégories disponibles :
      "Vie pratique"   "Études"   "Transport"   "Bons plans"
@@ -31,88 +32,18 @@ const FICHES = [
   },
 
   {
-    titre: "Demander de l'aide à un camarade",
-    categorie: "Études",
-    texte: "Si vous ne comprenez pas un cours, demandez à un camarade. Il est souvent plus simple d'expliquer une notion à quelqu'un qui la découvre en même temps que vous.",
-    auteur: "MehdiTR"
-  },
-
-  {
-    titre: "Profitez bien de votre temps libre ",
-    categorie: "Vie pratique",
-    texte: "profitez bien de votre temps libre avec vos amis et votre famille",
-    auteur: "MOHAMED MOEMEN"
-  },
-
-
-  {
-    titre: "Respectez le silence dans la salle de travail",
-    categorie: "Vie pratique",
-    texte: "Respectez le silence dans la salle de travail pour ne pas déranger les autres étudiants qui sont en train d'étudier.",
-    auteur: "MehdiTR"
-  },
-
-  {
-    titre: "Signez le registre de présence",
-    categorie: "Etudes",
-    texte: "Signez le registre de présence chaque fois que vous entrez dans le bâtiment pour assurer votre présence.",
-    auteur: "MehdiTR"
-  },
-
-
-
-  {
     titre: "Le distributeur du deuxième",
     categorie: "Vie pratique",
     texte: "Il rend la monnaie. Celui du rez-de-chaussée, non. L'information vaut son pesant de pièces jaunes.",
     auteur: "L'équipe pédagogique"
   },
-  {
-    titre: "Le bien fait du sport",
-    categorie: "Vie pratique",
-    texte: "Le sport est tres important .",
-    auteur: "HICHEM"
-  },
 
-  {
-    titre: "Les mathematique",
-    categorie: "Etudes",
-    texte: "Soyez present.",
-    auteur: "HICHEM"
-  },
-  {
-    titre: "Retard",
-    categorie: "Etudes",
-    texte: "Soyez a l'heure.",
-    auteur: "HICHEM"
-  },
-  
   {
     titre: "Arriver avant 8h30",
     categorie: "Transport",
     texte: "Entre 8h30 et 9h, le trajet double de durée. Partir vingt minutes plus tôt vous en fait gagner quarante.",
     auteur: "L'équipe pédagogique"
   },
-  {
-    titre: "Eviter l'utulisation du téléphone en classe",
-    categorie: "Etudes",
-    texte: "évitez lutulisation du telephone portable en classe pour se concentrer.",
-    auteur: "MOEMEN"
-  },
-
-  {
-    titre: "N'hesitez pas de demander l'aide",
-    categorie: "vie pratique",
-    texte: "demander l'aide aux autres pour mieux comprendre.",
-    auteur: "MOEMEN"
-  },
-  {
-    titre: "Pratiquer pour mieux comprendre",
-    categorie: "Etudes",
-    texte: "dans tout les matiéres il faut pratiquer pour perfectionner.",
-    auteur: "MOEMEN"
-  },
-
 
   {
     titre: "Le premier rang n'est pas un piège",
@@ -120,13 +51,6 @@ const FICHES = [
     texte: "On y comprend mieux, on y pose plus de questions, et on y sort avec moins de choses à revoir le soir.",
     auteur: "L'équipe pédagogique"
   },
-  {
-    titre: "Depot distant",
-    categorie: "Études",
-    texte: "Les depots distants permettent de travailler en groupe",
-    auteur: "L'équipe pédagogique"
-  },
-
 
   {
     titre: "Manger sans se ruiner",
@@ -143,48 +67,16 @@ const FICHES = [
   },
 
   // ===== AJOUTEZ VOS FICHES CI-DESSOUS =====
-{
-    titre: "netoyer la salle de travail",
-    categorie: "Vie pratique",
-    texte: "nettoyer la salle de travail après utilisation pour le confort de tous.",
-    auteur: "Membre 1 Mehdi"
+    {
+    titre: "Une incomprehension",
+    categorie: "Etudiant",
+    texte: "Il rend la monnaie. Celui du rez-de-chaussée",
+    auteur: "Ben Jemia"
   },
-
-
-  {
-    titre: "RESPECTEZ L'EQUIPE PEDAGOGIQUE",
-    categorie: "Vie pratique",
-    texte: "Respectez l'équipe pédagogique, elle est là pour vous aider et vous guider dans votre parcours académique. N'hésitez pas à poser des questions et à demander de l'aide si nécessaire.",
-    auteur: "ETUDIANT"
-  },
-
-  {
-    titre: "RESPECTEZ L'EQUIPE PEDAGOGIQUE(deuxieme fois)",
-    categorie: "Vie pratique",
-    texte: "Respectez l'équipe pédagogique, elle est là pour vous aider et vous guider dans votre parcours académique. N'hésitez pas à poser des questions et à demander de l'aide si nécessaire.",
-    auteur: "MEHDI"
-  },
-  {
-    titre: "RESPECTEZ L'ENVIRENEMENT",
-    categorie: "Vie pratique",
-    texte: "Respectez l'équipe pédagogique, elle est là pour vous aider et vous guider dans votre parcours académique. N'hésitez pas à poser des questions et à demander de l'aide si nécessaire.",
-    auteur: "HICHEM"
-  },
-  {
-    titre: "RESPECTEZ MES CAMARADES",
-    categorie: "Vie pratique",
-    texte: "Respectez mes camarades de classe pour avoir une bonne ambiance d'éetude.",
-    auteur: "MOHAMED MOEMEN"
-  },
-  {
-    titre: "RESPECTEZ L'ETABLISSEMENT(etape 4)",
-    categorie: "Vie pratique",
-    texte: "Respectez l'établissement pour avoir une bonne ambiance d'étude .",
-    auteur: "HICHEM"
-  },
-
-
-
+  { 
+    ajout:"fiche-BenJemai"
+    
+  }
 
 
   // ===== FIN DE VOS FICHES =====
