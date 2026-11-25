@@ -149,6 +149,12 @@ const FICHES = [
     texte: "Respectez mes camarades de classe pour avoir une bonne ambiance d'éetude.",
     auteur: "MOHAMED MOEMEN"
   },
+  {
+    titre: "SOYEZ VIGILANT",
+    categorie: "Vie pratique",
+    texte: "Soyez vigilant en class.",
+    auteur: "HICHEM"
+  },
 
 
 
