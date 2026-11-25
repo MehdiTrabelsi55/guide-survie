@@ -29,6 +29,12 @@ const FICHES = [
     texte: "Silencieuse jusqu'à 16h, beaucoup moins après. Si vous avez un partiel à réviser, venez le matin.",
     auteur: "L'équipe pédagogique"
   },
+  {
+    titre: "Respectez la propreté de la salle de travail",
+    categorie: "hygiène",
+    texte: "Respectez la propreté de la salle de travail, ne laissez pas vos déchets derrière vous.",
+    auteur: "MehdiTR"
+  },
 
   {
     titre: "Demander de l'aide à un camarade",
