@@ -30,6 +30,12 @@ const FICHES = [
     texte: "Silencieuse jusqu'à 16h, beaucoup moins après. Si vous avez un partiel à réviser, venez le matin.",
     auteur: "L'équipe pédagogique"
   },
+  {
+    titre: "Respectez la propreté de la salle de travail",
+    categorie: "hygiène",
+    texte: "Respectez la propreté de la salle de travail, ne laissez pas vos déchets derrière vous.",
+    auteur: "MehdiTR"
+  },
 
   {
     titre: "Le distributeur du deuxième",
@@ -67,6 +73,7 @@ const FICHES = [
   },
 
   // ===== AJOUTEZ VOS FICHES CI-DESSOUS =====
+
     {
     titre: "Une incomprehension",
     categorie: "Etudiant",
@@ -77,6 +84,50 @@ const FICHES = [
     ajout:"fiche-BenJemai"
     
   }
+=======
+{
+    titre: "netoyer la salle de travail",
+    categorie: "Vie pratique",
+    texte: "nettoyer la salle de travail après utilisation pour le confort de tous.",
+    auteur: "Membre 1 Mehdi"
+  },
+
+
+  {
+    titre: "RESPECTEZ L'EQUIPE PEDAGOGIQUE",
+    categorie: "Vie pratique",
+    texte: "Respectez l'équipe pédagogique, elle est là pour vous aider et vous guider dans votre parcours académique. N'hésitez pas à poser des questions et à demander de l'aide si nécessaire.",
+    auteur: "ETUDIANT"
+  },
+
+  {
+    titre: "RESPECTEZ L'EQUIPE PEDAGOGIQUE(deuxieme fois)",
+    categorie: "Vie pratique",
+    texte: "Respectez l'équipe pédagogique, elle est là pour vous aider et vous guider dans votre parcours académique. N'hésitez pas à poser des questions et à demander de l'aide si nécessaire.",
+    auteur: "MEHDI"
+  },
+  {
+    titre: "RESPECTEZ L'ENVIRENEMENT",
+    categorie: "Vie pratique",
+    texte: "Respectez l'équipe pédagogique, elle est là pour vous aider et vous guider dans votre parcours académique. N'hésitez pas à poser des questions et à demander de l'aide si nécessaire.",
+    auteur: "HICHEM"
+  },
+  {
+    titre: "RESPECTEZ MES CAMARADES",
+    categorie: "Vie pratique",
+    texte: "Respectez mes camarades de classe pour avoir une bonne ambiance d'éetude.",
+    auteur: "MOHAMED MOEMEN"
+  },
+  {
+    titre: "SOYEZ VIGILANT",
+    categorie: "Vie pratique",
+    texte: "Soyez vigilant en class.",
+    auteur: "HICHEM"
+  },
+
+
+
+
 
 
   // ===== FIN DE VOS FICHES =====
