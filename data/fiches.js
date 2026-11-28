@@ -164,7 +164,7 @@ const FICHES = [
     auteur: "MOHAMED MOEMEN"
   },
   {
-    titre: "SOYEZ VIGILANT",
+    titre: "RESTER ATTENTIF EN CLASSE",
     categorie: "Vie pratique",
     texte: "Soyez vigilant en class.",
     auteur: "HICHEM"
